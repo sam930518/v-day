@@ -2,8 +2,8 @@ const gifStages = [
     "https://media1.tenor.com/m/BzB6arw6ChcAAAAC/lp.gif",    // 0 normal
     "https://media1.tenor.com/m/BzB6arw6ChcAAAAC/lp.gif",  // 1 confused
     "https://media.tenor.com/JNgxzvO2kxQAAAAj/%E7%B7%9A%E6%A2%9D%E5%B0%8F%E7%8B%97.gif",             // 2 pleading
-    "https://media.tenor.com/OGY9zdREsVAAAAAj/somsom1012.gif",             // 3 sad
-    "https://media1.tenor.com/m/WGfra-Y_Ke0AAAAd/chiikawa-sad.gif",       // 4 sadder
+    "https://s1.aigei.com/src/img/gif/bc/bcd26238d5764bf9b26060252fdd2158.gif?e=2051020800&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:FZ5EbmxN7BeocoxRQeou4oJA9J8=",             // 3 sad
+    "https://s1.aigei.com/prevfiles/a56bd790aace483486eb76b330e0e97d.gif?e=2051020800&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:dQjdn_eOzV_KAW_pAkWKj-4EJWg=",       // 4 sadder
     "https://media.tenor.com/CivArbX7NzQAAAAj/somsom1012.gif",             // 5 devastated
     "https://media.tenor.com/5_tv1HquZlcAAAAj/chiikawa.gif",               // 6 very devastated
     "https://media1.tenor.com/m/uDugCXK4vI4AAAAC/chiikawa-hachiware.gif"  // 7 crying runaway
@@ -13,8 +13,8 @@ const noMessages = [
     "No",
     "真的嗎? 🤔",
     "拜託 🥺",
-    "If you say no, I will be really sad...",
-    "I will be very sad... 😢",
+    "如果你說不 我會很難過",
+    "我很難過 😢",
     "Please??? 💔",
     "Don't do this to me...",
     "Last chance! 😭",
