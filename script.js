@@ -4,8 +4,8 @@ const gifStages = [
     "https://media.tenor.com/JNgxzvO2kxQAAAAj/%E7%B7%9A%E6%A2%9D%E5%B0%8F%E7%8B%97.gif",             // 2 pleading
     "https://s1.aigei.com/src/img/gif/bc/bcd26238d5764bf9b26060252fdd2158.gif?e=2051020800&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:FZ5EbmxN7BeocoxRQeou4oJA9J8=",             // 3 sad
     "https://s1.aigei.com/prevfiles/a56bd790aace483486eb76b330e0e97d.gif?e=2051020800&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:dQjdn_eOzV_KAW_pAkWKj-4EJWg=",       // 4 sadder
-    "https://media.tenor.com/CivArbX7NzQAAAAj/somsom1012.gif",             // 5 devastated
-    "https://media.tenor.com/5_tv1HquZlcAAAAj/chiikawa.gif",               // 6 very devastated
+    "https://s1.aigei.com/prevfiles/7d7cb69513094e92a240f485697f47ac.gif?e=2051020800&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:7OeN2wEWRi07d4BJm8qCO7zA9L0=",             // 5 devastated
+    "https://s1.aigei.com/prevfiles/f0fce974e74e4a488ace4954b9acda28.gif?e=2051020800&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:dlQzVn3hMsHOSY_HBC0RYExaQ7A=",               // 6 very devastated
     "https://media1.tenor.com/m/uDugCXK4vI4AAAAC/chiikawa-hachiware.gif"  // 7 crying runaway
 ]
 
@@ -15,17 +15,16 @@ const noMessages = [
     "拜託 🥺",
     "如果你說不 我會很難過",
     "我很難過 😢",
-    "Please??? 💔",
-    "Don't do this to me...",
-    "Last chance! 😭",
-    "You can't catch me anyway 😜"
+    "不要這樣 💔",
+    "不讓你點",
+    "最後機會! 😭",
+    "你抓不到我的 😜"
 ]
 
 const yesTeasePokes = [
-    "try saying no first... I bet you want to know what happens 😏",
-    "go on, hit no... just once 👀",
-    "you're missing out 😈",
-    "click no, I dare you 😏"
+    "先試著說「No」… 我猜你一定想知道會發生什麼事 😏",
+    "點No看看 👀",
+    "你錯過了很多 😈",
 ]
 
 let yesTeasedCount = 0
